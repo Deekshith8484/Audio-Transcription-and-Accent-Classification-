@@ -108,4 +108,3 @@ Facing a small issue? Don't worry, here are some common solutions:
 This project is intended for educational purposes and utilizes open-source libraries under their respective licenses. Please ensure compliance with YouTube's terms of service when downloading audio.
 
 ---
-**So, what audio will you try first? Let's classify some accents!**
