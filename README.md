@@ -71,7 +71,7 @@ It's super easy to get this app up and running:
 
 ---
 
-### **Troubleshooting, Koi Tension Nahi!**
+### **Troubleshooting**
 
 Facing a small hiccup? No tension, we've got you covered:
 
