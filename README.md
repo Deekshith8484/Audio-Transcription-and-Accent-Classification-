@@ -92,6 +92,28 @@ Running this app is very simple:
 * Ensure you have a stable internet connection, particularly for YouTube downloads and model initialization.
 * If you encounter any errors, check the Streamlit interface for error messages, and verify your FFmpeg installation.
 
+## ⚠️ Limitations on Streamlit Cloud
+
+This app uses features like audio processing and YouTube downloading that depend on `ffmpeg` and `openai-whisper`.
+
+**These features will NOT work on Streamlit Cloud** because:
+
+- `ffmpeg` is not installed and cannot be added.
+- `openai-whisper` fails to install due to build issues.
+- `yt-dlp` requires `ffmpeg` for post-processing.
+
+---
+
+## ✅ How to Use Full Features Locally
+
+To run the app with full YouTube and Whisper transcription support:
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/audio-transcription-app.git
+cd audio-transcription-app
+```
+
 ---
 ###  Troubleshooting!
 
