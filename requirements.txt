@@ -1,6 +1,9 @@
-streamlit 
-yt_dlp 
-librosa 
-soundfile 
-numpy 
+streamlit
+yt-dlp
+librosa
+soundfile
+numpy
 transformers
+torch
+openai-whisper
+moviepy
