@@ -1,5 +1,5 @@
 ---
-##  Audio Transcription and Accent Classification Streamlit App: The Standard English Version!
+##  Audio Transcription and Accent Classification Streamlit App
 
 Here's a cool app for you! It's like having a personal assistant that not only transcribes what you say but also identifies your English accent—whether it's American, British (proper RP!), Australian, Indian, or even Scottish! This app is built with **Streamlit**, making it super easy to use in your web browser.
 
@@ -21,7 +21,7 @@ Here's a cool app for you! It's like having a personal assistant that not only t
 * `main.py`: This is the core Streamlit application file, orchestrating all the audio processing, transcription, and accent classification.
 
 ---
-### 🛠️ What You'll Need (Requirements!)
+### 🛠 What You'll Need (Requirements!)
 
 Before you get started, ensure you have these essentials in place:
 
